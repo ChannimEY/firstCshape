@@ -11,7 +11,19 @@ namespace DemoFirstCsharp
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World");
+            int number = 100;
+            float pi = 3.14f;
+            double amount = 100000d;
+            string firstName= "Ey";
+            string lastName = "Channim";
+
+            int number2 = 200;
+            int result = number + number2;
+            Console.WriteLine(result);
+            Console.ReadLine();
+
+
+
         }
     }
 }
