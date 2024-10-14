@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\firstCshape\\DemoFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6DE051-3FAC-4373-B457-3B21531636A4}|DemoFirstProject\\DemoFirstProject.vcxproj|C:\\Users\\User\\Documents\\GitHub\\firstCshape\\DemoFirstProject\\DemoFirstProject\\DemoFirstProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB6DE051-3FAC-4373-B457-3B21531636A4}|DemoFirstProject\\DemoFirstProject.vcxproj|solutionrelative:DemoFirstProject\\DemoFirstProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoFirstProject.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\firstCshape\\DemoFirstProject\\DemoFirstProject\\DemoFirstProject.cpp",
+              "RelativeDocumentMoniker": "DemoFirstProject\\DemoFirstProject.cpp",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\firstCshape\\DemoFirstProject\\DemoFirstProject\\DemoFirstProject.cpp",
+              "RelativeToolTip": "DemoFirstProject\\DemoFirstProject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T03:39:43.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
